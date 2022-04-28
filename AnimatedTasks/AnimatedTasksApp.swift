@@ -11,7 +11,7 @@ import SwiftUI
 struct AnimatedTasksApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TodoListView()
         }
     }
 }
